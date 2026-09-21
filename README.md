@@ -47,6 +47,8 @@ cout <<left << setw(22) << "Total:" << right << setw(10) << "$" << total << '\n'
 
 cout << left <<setw(20) << "Member:" << (isMember? "Yes" : "No") << '\n;
 
+cout<< left << setw(22) << "Cashier Notes:" << cashierNotes << '\n';
+
 cout << "=================================================================\n";
 
 // Inventory Audit Table 
