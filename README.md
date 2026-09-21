@@ -1,1 +1,14 @@
-# Lab_4
+#include<iostream>
+#include <string>
+#include<iomanip>
+
+int main()
+{
+
+
+
+
+
+
+
+}
